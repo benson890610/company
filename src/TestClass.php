@@ -8,4 +8,10 @@ class TestClass {
 
 	}
 
+	public function show_statistic() {
+
+		echo 'Main statistic chart<br>';
+
+	}
+
 }
