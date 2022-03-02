@@ -14,4 +14,10 @@ class TestClass {
 
 	}
 
+	public function show_calls() {
+
+		echo 'No calls<br>';
+
+	}
+
 }
